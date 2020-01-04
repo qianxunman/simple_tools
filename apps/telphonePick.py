@@ -11,7 +11,6 @@ import random
 class GetBeauTyTelPhone(object):
     """
     Base Usage:
-
     """
     avaliable_phone = []
 
